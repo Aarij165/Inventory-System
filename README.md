@@ -43,7 +43,7 @@ The `InventoryManagementSystem` class manages the entire inventory, user authent
 
 
 
-### **3. **User Roles**
+### **3. User Roles**
 
 The `InventoryManagementSystem` supports two types of users:
 1. **Admin**: Has full control over the inventory, including adding, editing, deleting products, checking stock levels, and adjusting stock.
@@ -51,7 +51,7 @@ The `InventoryManagementSystem` supports two types of users:
 
 
 
-### **4. **Flow of the Program**
+### **4. Flow of the Program**
 
 The program starts by running the **`ims.run()`** method. Here’s how the flow works:
 1. **Login**: The user is prompted to enter a role (`admin` or `user`) and password.
